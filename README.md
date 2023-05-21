@@ -13,6 +13,10 @@ Parameters explanation: `1.18.0` (Up to date)
 
 ### Note:
 - They seem to be running extra checks depending on the "security" parameter enabled eg. when solving AND/OR failing too many captchas in a row, some extra automation checks (worker, proxy spoofing,automation extensions...) are ran
+- You can check info.js and use a spoofing extension or something to match  your solver / gen.
+### Contact:
+- Original Repo: https://github.com/d4c5d1e0/hcaptcha
+- Fork: https://github.com/roralsorom/hcaptcha
 
 # Parameters
 
